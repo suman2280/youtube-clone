@@ -1,4 +1,3 @@
-import { error } from "console";
 import express from "express";
 import Ffmpeg, { FfmpegCommand } from "fluent-ffmpeg";
 
